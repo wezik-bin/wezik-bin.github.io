@@ -1,3 +1,8 @@
 [
-  "niki": "https://i.imgur.com/bHd8BTJ.png"
+  "niki": {
+  "url": "https://i.imgur.com/bHd8BTJ.png"
+  },
+  "ktos": {
+  "url": "test"
+  }
 ]
